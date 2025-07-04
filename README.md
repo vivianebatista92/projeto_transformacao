@@ -1,10 +1,14 @@
 # Projeto de Transformação de Dados - Precificação de Imóveis no Turismo
 
+> ℹ️ **NOTE:** Projeto desenvolvido para a formação de Data Science do programa [ONE - Oracle Next Educacion](https://www.oracle.com/br/education/oracle-next-education/) realizada na plataforma [Alura](https://www.alura.com.br/).
+---
+
 Este projeto tem como objetivo realizar **transformações e limpezas de dados** para apoiar uma futura solução de **precificação inteligente** de imóveis voltados ao aluguel de curto prazo, com foco no setor de turismo.
 
 Os dados utilizados representam imóveis e sua disponibilidade ao longo do tempo, e foram extraídos de arquivos JSON com informações detalhadas de hospedagem.
 
 ---
+
 
 ## 🎯 Objetivo
 
@@ -73,3 +77,10 @@ Com o dataset tratado, agora é possível:
 
 ## 📌 Observação
 Este projeto faz parte da minha formação em Análise de Dados, com foco no domínio de ETL e pré-processamento de dados aplicados a problemas reais de mercado.
+
+---
+
+<p align="center">
+<img 
+    src="src/projetos_banner.gif"
+    >
